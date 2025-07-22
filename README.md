@@ -1,7 +1,7 @@
 About the Project
 The React To-Do List App is a simple yet powerful productivity tool built using React.js. It enables users to efficiently manage their daily tasks by adding, deleting, and tracking to-do items in a clean and responsive interface. Designed for simplicity and speed, this app helps you stay organized—whether you're managing personal tasks, academic goals, or work deadlines. The project is fully deployed and accessible online, offering a seamless user experience without any setup required.
 
-🔗 Live Demo: Click here to try the app
+🔗 Live Demo: https://Varshithaappam.github.io/react-todo-app
 
 # Getting Started with Create React App
 
