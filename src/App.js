@@ -7,7 +7,7 @@ import TodoList from './components/Todolist';
 function App() {
   const [input, setInput] = useState("");
 
-  // Initialize todos from localStorage
+  // Load todos from localStorage on initial render
   const [todos, setTodos] = useState(() => {
     const savedTodos = localStorage.getItem("todos");
     return savedTodos ? JSON.parse(savedTodos) : [];
